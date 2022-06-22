@@ -12,7 +12,7 @@ the description.
 
 
 # Rules
-Since I have only been making this for an afternoon a haven't been
+Since I have only been making this for a couple of days I haven't been
 able to make the program smart enough, so, there are some rules,
 that way the app will behave as expected.
 * There should be NO spaces at the beginning of a line.
