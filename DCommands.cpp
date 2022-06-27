@@ -80,7 +80,7 @@ int main()
 {
     //Some windows settings
     HWND wh = GetConsoleWindow();
-    //Position en size of the window
+    //Position and size of the window
     MoveWindow(wh, 100, 100, 520, 400, TRUE);
 
     //Setting windows title
